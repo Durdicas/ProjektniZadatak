@@ -20,7 +20,7 @@ Aplikacija mora moći ispisati sve površine i opsege kreiranih geometrijskih li
 Aplikacija mora moći sortirati sve kreirane geometrijske likove po površini uzlazno.
 
 ZADATAK 1 - 12.2.2025: Na osnovu opisa projektnog zadatka, pripremite i implementirajte potrebne
-klase za trokut, krug i pravokutnik.  8:29 PM
+klase za trokut, krug i pravokutnik.
 
 ZADATAK 2: Pripremite neke elemente u klasama koje se ponavljaju.
 Implementirajte baznu klasu GeometrijskiLik, te refaktorirajte klase Pravokutnik, Trokut i Krug na način
